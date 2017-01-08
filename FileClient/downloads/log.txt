@@ -1,0 +1,4 @@
+[INFO] Client connected from 127.0.0.1 at Sun Jan 08 17:50:06 GMT 2017
+[INFO] Client connected from 127.0.0.1 at Sun Jan 08 17:50:07 GMT 2017
+[INFO] File listing requested from 127.0.0.1 at Sun Jan 08 17:50:19 GMT 2017
+
